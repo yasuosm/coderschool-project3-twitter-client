@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Twitter Client</string>
+    <string name="login_label">Connect to Twitter</string>
+    <string name="title_activity_home">HomeActivity</string>
+    <string name="user_screen_name_prefix">\@</string>
+    <string name="title_activity_blank">BlankActivity</string>
+    <string name="tweet">Tweet</string>
+    <string name="what_s_happening">What\'s happening?</string>
+    <string name="retweets">retweets</string>
+    <string name="likes">likes</string>
+
+</resources>
